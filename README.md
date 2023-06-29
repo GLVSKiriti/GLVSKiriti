@@ -185,11 +185,11 @@ Source</p>
 
 <h3 align="left"> 📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glvskiriti&show_icons=true&locale=en&layout=compact" alt="glvskiriti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GLVSKiriti&show_icons=true&locale=en&layout=compact" alt="GLVSKiriti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glvskiriti&show_icons=true&locale=en" alt="glvskiriti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLVSKiriti&show_icons=true&locale=en" alt="GLVSKiriti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glvskiriti&" alt="glvskiriti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLVSKiriti&" alt="GLVSKiriti" /></p>
 
 
 
