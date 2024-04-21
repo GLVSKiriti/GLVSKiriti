@@ -7,9 +7,9 @@
 with technologies related to DevOps and learning how things work. I love contributing in Open
 Source</p>
 
-- 🔭 I’m currently working in **Jaeger project under LFX mentorship**
+- 🔭 I worked in the **CNCF: Jaeger project under LFX mentorship**
   
-- 🌱 I’m currently learning **Redux and kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
